@@ -1,3 +1,9 @@
+.idea/
+
+target/
+
+templatePDF.iml
+
 # Compiled class file
 *.class
 
